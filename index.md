@@ -19,7 +19,7 @@
 2. put over the **yeti boss gameplay**
 3. post to instagram reels
 
-'''
+```
 # code block
 print 'super speed up gozalo phonk'
-'''
+```
