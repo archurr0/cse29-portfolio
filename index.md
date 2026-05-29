@@ -1,4 +1,4 @@
-# **pvz battle for neighborville** torchwood singing v.s yeti zombie.
+# pvz battle for neighborville torchwood singing v.s yeti zombie.
 ## song : GOZALO *SUPER SPED UP*
 
 ---
@@ -10,3 +10,14 @@
 > badududbapbadudubadudubapbadudubadudubapbadudubadudubapbadudubadudubapbadudu *trumpets playing*
 
 ---
+
+* torchwood
+* yeti zombie
+* gozalo
+
+1. super speed up gozalo **2x speed**
+2. put over the **yeti boss gameplay**
+3. post to instagram reels
+
+# code block
+print 'super speed up gozalo phonk'
